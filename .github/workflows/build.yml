@@ -4,7 +4,7 @@ name: Build
 on:
   push:
     branches:
-      - master  # 注意修改为你的分支名称
+#      - master  # 注意修改为你的分支名称
       - dev-line-comment  # 注意修改为你的分支名称
 
 jobs:
